@@ -29,7 +29,7 @@ A simple **Node.js and Express** backend for user authentication with **signup**
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/ganeshavireddy/Singin-Singup-Using-Node-Express.js.git)]
 cd backend
 
 
